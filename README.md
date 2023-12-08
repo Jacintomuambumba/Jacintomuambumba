@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Jacinto Muambumba. 
 
 
-- 🔭 Actualmente Atuo como Pentester...
+- 🔭 Flutter 🤳
 - 🌱 CEO da CoDev
   
 
